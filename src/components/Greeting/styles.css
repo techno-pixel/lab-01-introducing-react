@@ -1,5 +1,16 @@
 header {
-    background-color: bisque;
+    background-color: darkslategrey;
     margin-top: 50px;
+    text-decoration-color: cyan;
+}
+
+h1 {
+    color: darkgrey;
+}
+
+p {
+    color: darkgreen;
+    font-size: large;
+    font-style: italic;
 }
 
